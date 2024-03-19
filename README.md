@@ -5,6 +5,14 @@
 
 #
 
+### Table of Contents
+
+- [Task Description](Task-Description)
+- [Tech Stack](#Tech-Stack)
+- [Approach Overview](Approach-Overview)
+- [Deliverables](Deliverables)
+#
+
 ### Task Description
 
 The goal of the task was to create a model that would predict what animal was given a picture. The images used to create this model were obtained from websites. The goal of the model was to accurately determine the name of the animal. It was very important for the model to perform the prediction well, considering that the data provided is a small part of the whole.
