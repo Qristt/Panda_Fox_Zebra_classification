@@ -7,7 +7,7 @@
 
 ### Table of Contents
 
-- [Task Description]
+- [Task Description] (https://github.com/Qristt/Panda_Fox_classification/blob/master/README.md#task-description)
 - [Tech Stack]
 - [Approach Overview]
 - [Deliverables]
