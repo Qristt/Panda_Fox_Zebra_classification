@@ -7,10 +7,10 @@
 
 ### Table of Contents
 
-- [Task Description](Task-Description)
-- [Tech Stack](#Tech-Stack)
-- [Approach Overview](Approach-Overview)
-- [Deliverables](Deliverables)
+- [Task Description]
+- [Tech Stack]
+- [Approach Overview]
+- [Deliverables]
 #
 
 ### Task Description
