@@ -1,7 +1,7 @@
 ## Panda fox Classification Model
 
 
-![8658a9dace175340f3b6059049291432](https://github.com/Qristt/Panda_Fox_classification/assets/154927704/4678e6c7-dafa-4fca-9218-c2e8eed49863)
+![8658a9dace175340f3b6059049291432](https://github.com/Qristt/Panda_Fox_classification/assets/154927704/4678e6c7-dafa-4fca-9218-c2e8eed49863)  ![91f67cac95de1961534183977afd361a](https://github.com/Qristt/Panda_Fox_classification/assets/154927704/1f2c6740-bf5d-4014-a77c-093409b39e38)
 
 
 #
