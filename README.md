@@ -41,7 +41,7 @@ The goal of the task was to create a model that would predict what animal was gi
 ### Approach Overview
 
 - **Model Preparation Jupyter Notebook:** The process of creating the classification model was detailed in the `model_preparation.ipynb` notebook. This notebook includes comprehensive steps for data preparation, model training, and evaluation. Comments throughout the notebook elaborate on key decisions and metrics supporting the model's adequacy.
-- And model_structure.ipynb` is the model.
+- Model_structure.ipynb` is the model.
 
 
 #
