@@ -1,7 +1,8 @@
 ## Panda fox Classification Model
 
 
-![Project Banner](https://github.com/Qristt/Panda_Fox_classification.git)
+![8658a9dace175340f3b6059049291432](https://github.com/Qristt/Panda_Fox_classification/assets/154927704/4678e6c7-dafa-4fca-9218-c2e8eed49863)
+
 
 #
 
